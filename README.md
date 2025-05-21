@@ -24,7 +24,6 @@ Publish the website in the LocalHost.
 # PROGRAM :
 ```
 HTML
-HTML
 
 <!DOCTYPE html>
 <html lang="en">
@@ -177,7 +176,6 @@ HTML
 </html>
 ```
 ```
-css
 css
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
@@ -335,5 +333,4 @@ footer {
 ![web](https://github.com/user-attachments/assets/fb4d4396-a9f0-4cc4-bab2-7646997411e8)
 
 # RESULT:
-The Project for responsive web design using Bootstrap is completed successfully.
 The Project for responsive web design using Bootstrap is completed successfully.
